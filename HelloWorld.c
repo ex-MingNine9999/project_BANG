@@ -6,7 +6,6 @@ int main(void)
 
 	printf("Hello MingNine\n");
 
-	?
-
+	printf("what the fuck\n");
 	return 0;
 }
