@@ -6,5 +6,7 @@ int main(void)
 		printf("1\n");
 	}
 
+	printf("1111");
+
 	return 0;
 }
